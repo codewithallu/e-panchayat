@@ -1,0 +1,20 @@
+SMAP
+deathissue_jsp.java
+JSP
+*S JSP
+*F
++ 0 deathissue.jsp
+deathissue.jsp
++ 1 db.jsp
+db.jsp
+*L
+1,31:54
+1#1,2:85
+4,3:88
+31#0,2:91
+33,20:94
+52,6:114
+58:120,7
+59:127,3
+60,20:130
+*E

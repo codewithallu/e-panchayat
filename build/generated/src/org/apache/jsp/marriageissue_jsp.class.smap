@@ -1,0 +1,21 @@
+SMAP
+marriageissue_jsp.java
+JSP
+*S JSP
+*F
++ 0 marriageissue.jsp
+marriageissue.jsp
++ 1 db.jsp
+db.jsp
+*L
+1,31:54
+1#1,2:85
+4,3:88
+31#0,2:91
+33,15:94
+47,5:109
+52:114,9
+53:123,3
+54:126,5
+55,16:131
+*E
